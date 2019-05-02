@@ -1,10 +1,10 @@
 <?php
 /*
-Plugin Name:    Iceberg Proposals
-Plugin URI:     https://www.icebergwebdesign.com/
-Description:    A plugin to run the proposal system for Iceberg Web Design
-Author:         Iceberg Web Design
-Author URI:     https://www.icebergwebdesign.com
+Plugin Name:    Proposals
+Plugin URI:     xxx
+Description:    A plugin to run the proposal system for xxx
+Author:         xxx
+Author URI:     xxx
 License:        GPL2
 License URI:    https://www.gnu.org/licenses/gpl-2.0.html
 Version:        1.0
