@@ -1,0 +1,109 @@
+/* Proposal Gravity Form*/
+#input_10_124, #input_10_132, #input_10_110, #input_10_125, #input_10_133, #input_10_129, #input_10_134, #input_10_131 {
+    outline: none;}
+#input_10_124, #input_10_133, #input_10_134, #input_10_132, #input_10_158, #input_10_159, #input_10_160, #input_10_161, #input_10_162, #input_10_163, #input_10_164, #input_10_165, #input_10_166, #input_10_167, #input_10_181 {color: #900;}
+#input_10_149, #input_10_150, #input_10_168, #input_10_175, #input_10_174, #input_10_176, #input_10_177 {color: #060;}
+#gform_10 .ginput_product_price_label {display: none;}
+#field_10_184 label.gfield_label {margin-bottom: 0px !important;}
+#field_10_184 .gfield_description {padding-top: 0px !important; font-size: 12px !important; font-style: italic;}
+
+/* Propasals */
+span.proposal-price-total {float: right;}
+span.proposal-price {float: right;}
+.proposal-description {width: 85% !important;}
+.proposal-title {padding-top: 30px;}
+.custom-feature {font-size: 16px; font-weight: bold;}
+.single-proposal .iceberg-page-title-wrap {display: none;}
+.proposal-order-form { text-align: center;  padding: 20px; }
+.proposal-order-form a {font-size: 17px;
+    color: #ffffff !important;
+    padding: 5px 40px;
+    display: inline-block; margin: 0px auto;  
+    border-radius: 0px;
+    -moz-border-radius: 0px;
+    -webkit-border-radius: 0px;
+    background: #dd3333;
+    text-align: center;}
+.proposal-order-form a {color: #fff !important; font-weight: bold;}
+.proposal-contact_name, .proposal-sent, .proposal-go_live_date {padding-top: 10px;}
+.proposal-logo {max-width: 300px;}
+.proposal-name {padding-top: 5px;}
+.top-info {display: flex; justify-content: space-between;}
+.proposal-company-title h2 {margin-bottom: 0px !important; text-align: center; padding-bottom: 10px;}
+.proposal-company-title {padding-top: 60px; text-align: center;  }
+
+.proposal-testimonial { display: block; float: right; width: 40%; background-color: #efefef; padding: 20px 20px 0px 20px; margin-top:40px; margin-left: 30px;}
+.proposal-project-info {clear: both;}
+
+.proposal-logo {padding-bottom: 20px;}
+.proposal-quantity {font-size: 14px; font-style: italic; font-weight: bold;}
+
+/* Proposal header */
+.iceberg_fixedbar {
+background-color: rgba(0,0,0,.75); 
+top: 0px; 
+color:#fff; 
+font-family: Arial, Helvetica, sans-serif; 
+left:0; 
+padding: 0px 0; 
+position:fixed; 
+font-size:14px; 
+width:100%; 
+z-index:99999; 
+float:left; 
+vertical-align:middle; 
+margin: 0px 0 0; 
+font-weight: bold;
+display: none;
+}
+
+#ice_phone img {max-width: 100px; margin-right: 30px;}
+
+.iceberg_boxfloat {
+text-align:center; 
+width:90%; 
+margin:0 auto;
+}
+ 
+#ice_button {
+width:100%; 
+line-height:120%;
+display: flex;
+justify-content: space-between;
+align-items: center;
+}
+#ice_button {
+padding: 10px 15px;
+margin: 12px 10px 10px;
+}
+#ice_button a{
+color: #fff;
+font-size: 20px;
+vertical-align: middle !important;
+}
+#ice_phone {display: flex; align-items: center;}
+#ice_form a {background: #dd3333;padding: 10px 15px;}
+#input_10_184, #input_10_2, #input_10_185, #input_10_68, 
+#input_10_160, #input_10_176, #input_10_150 {border: none !important;}
+
+
+
+
+/* Breakpoint for column stacking - 768px */
+@media (max-width: 768px) {
+  .proposal-logo {margin: 0 auto;}
+  .proposal-customer-info {padding-top: 60px;}
+  #ice_phone {display: block;}
+  #ice_phone img {padding-bottom: 20px;}
+}
+
+/* Breakpoint for column stacking - 610px */
+@media (max-width: 610px) {
+  #ice_button {display: block;}
+  #ice_phone {display: block;}
+  #ice_phone img {padding-bottom: 20px;}
+  #ice_form {padding-top: 40px; padding-bottom: 20px;}
+
+}
+
+.proposal-logo img {max-height: 75px; width: auto; max-width: 150px; height: auto;}
